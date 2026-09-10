@@ -8,3 +8,5 @@ Evidenciar o código na atividade_03 no GitHub com o print da execução.
 
 Segue o prompt:
 Crie um programa em Dart que faz uma chamada assincrona a um banco de dados SQLite (alunos.db). O acesso ao banco de dados consistira das seguintes operações: 1) Se o banco de dados alunos.db não existir crie-o na raiz do projeto; 2) Em criando-o crie uma tabela tb_alunos; 3) Incluir tres alunos nessa tabela tb_alunos; 4) Listar o conteúdo dessa tabela tb_alunos. Todas as operações devem possuir um tratamento de exceção.
+
+<img width="906" height="259" alt="image" src="https://github.com/user-attachments/assets/834113bd-e1d7-42ff-acd4-a482ab2bfa3f" />
